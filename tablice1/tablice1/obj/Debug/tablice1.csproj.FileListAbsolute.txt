@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\tablice1\tablice1\bin\Debug\tablice1.exe.config
+C:\Users\Student\Desktop\tablice1\tablice1\bin\Debug\tablice1.exe
+C:\Users\Student\Desktop\tablice1\tablice1\bin\Debug\tablice1.pdb
+C:\Users\Student\Desktop\tablice1\tablice1\obj\Debug\tablice1.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\tablice1\tablice1\obj\Debug\tablice1.exe
+C:\Users\Student\Desktop\tablice1\tablice1\obj\Debug\tablice1.pdb
