@@ -1,0 +1,5 @@
+C:\Users\Student\source\repos\Wyjątki3\Wyjątki3\bin\Debug\Wyjątki3.exe.config
+C:\Users\Student\source\repos\Wyjątki3\Wyjątki3\bin\Debug\Wyjątki3.exe
+C:\Users\Student\source\repos\Wyjątki3\Wyjątki3\bin\Debug\Wyjątki3.pdb
+C:\Users\Student\source\repos\Wyjątki3\Wyjątki3\obj\Debug\Wyjątki3.exe
+C:\Users\Student\source\repos\Wyjątki3\Wyjątki3\obj\Debug\Wyjątki3.pdb

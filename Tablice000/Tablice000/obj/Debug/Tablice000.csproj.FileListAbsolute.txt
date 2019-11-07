@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\Tablice000\Tablice000\bin\Debug\Tablice000.exe.config
+C:\Users\Student\source\repos\Tablice000\Tablice000\bin\Debug\Tablice000.exe
+C:\Users\Student\source\repos\Tablice000\Tablice000\bin\Debug\Tablice000.pdb
+C:\Users\Student\source\repos\Tablice000\Tablice000\obj\Debug\Tablice000.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Tablice000\Tablice000\obj\Debug\Tablice000.exe
+C:\Users\Student\source\repos\Tablice000\Tablice000\obj\Debug\Tablice000.pdb

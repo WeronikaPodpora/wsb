@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\wyjątki1\wyjątki1\bin\Debug\wyjątki1.exe.config
+C:\Users\Student\source\repos\wyjątki1\wyjątki1\bin\Debug\wyjątki1.exe
+C:\Users\Student\source\repos\wyjątki1\wyjątki1\bin\Debug\wyjątki1.pdb
+C:\Users\Student\source\repos\wyjątki1\wyjątki1\obj\Debug\wyjątki1.exe
+C:\Users\Student\source\repos\wyjątki1\wyjątki1\obj\Debug\wyjątki1.pdb
+C:\Users\Student\source\repos\wyjątki1\wyjątki1\obj\Debug\wyjątki1.csprojAssemblyReference.cache
